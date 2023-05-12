@@ -5,8 +5,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.context.event.ApplicationReadyEvent;
 import org.springframework.context.event.EventListener;
-import test_task.pilipenko.information.PageStatus;
-import test_task.pilipenko.information.WebSite;
+import com.testSoftaria.SpringEmailTask.pilipenko.information.PageStatus;
+import com.testSoftaria.SpringEmailTask.pilipenko.information.WebSite;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package test_task.pilipenko.information;
+package com.testSoftaria.SpringEmailTask.pilipenko.information;
 
 import java.io.*;
 import java.util.HashSet;
